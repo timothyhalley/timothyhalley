@@ -11,7 +11,7 @@
 - 👀 I develop javascript and typescript projects in my free time with CI/CD DevOps
 - 🌱 I’m currently learning frameworks for JS for ES2024
 - 💞️ Enjoy collaborating on REST API, graphql, db type projects using nodejs & phython
-- 📫 How to reach me - find my contact at cascadezen.com &/or skicyclerun.com or just message me @LINKEDIN --> linkedin.com/in/timothyhalley
+- 📫 How to reach me - find my contact at @LINKEDIN --> linkedin.com/in/timothyhalley
 
 <!---
 timothyhalley/timothyhalley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
